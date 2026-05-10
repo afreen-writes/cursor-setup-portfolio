@@ -26,6 +26,12 @@ Windows Defender displayed a warning while installing Cursor.
 ### Solution
 Verified the installer was downloaded from the official Cursor website and proceeded safely.
 
+### Git Workflow Issue (Local Setup)
+Faced issues with Git commands/local commit-push workflow not functioning as expected.
+
+### Solution
+Temporarily bypassed local Git usage and updated repository directly via GitHub web interface to continue progress.
+
 ---
 
 ### Claude Code Extension Not Visible
