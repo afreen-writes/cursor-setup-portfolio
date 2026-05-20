@@ -78,3 +78,15 @@ The goal of this project is to study how successful B2B SaaS creators use Linked
 
 ## Notes
 Some Git workflow issues were initially bypassed using GitHub web editing while troubleshooting local Git setup.
+
+## Key Observations
+
+After reviewing multiple creators and marketers in the B2B SaaS space, several patterns appeared consistently:
+
+- Educational content performs strongly on LinkedIn
+- Consistency is more important than virality
+- Personal storytelling increases engagement
+- Audience trust is built through clarity and repetition
+- Multi-platform distribution expands reach
+
+This research project helped improve understanding of content strategy, audience psychology, and creator-led growth in B2B SaaS marketing.
