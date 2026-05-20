@@ -47,3 +47,34 @@ Searched using terms such as "Claude" and "Anthropic" and documented the issue w
 - Using Cursor IDE
 - Installing development tools
 - Basic Git commit and push workflow
+
+
+---
+
+# Research Project
+
+## Topic Chosen
+LinkedIn Organic Content Strategy for B2B SaaS
+
+## Objective
+The goal of this project is to study how successful B2B SaaS creators use LinkedIn and content marketing to grow audiences, build authority, and increase engagement.
+
+## Research Includes
+- LinkedIn post analysis
+- YouTube transcript research
+- Content strategy observations
+- Audience growth patterns from industry experts
+
+## Experts Researched
+- Justin Welsh
+- Lara Acosta
+- Alex Hormozi
+
+## Repository Structure
+/research
+- /linkedin-posts
+- /youtube-transcripts
+- /other
+
+## Notes
+Some Git workflow issues were initially bypassed using GitHub web editing while troubleshooting local Git setup.
